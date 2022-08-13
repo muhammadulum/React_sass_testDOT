@@ -1,8 +1,9 @@
-###1.download aplikasi react_sass_testDOT
-2.buka file tersebut dengan menggunakan vc
-3.buka terminal baru lalu jalankan npm start
-4.setelah itu akan tampil seperti berikut di browser
+### 1.download aplikasi react_sass_testDOT
+### 2.buka file tersebut dengan menggunakan vc
+### 3.buka terminal baru lalu jalankan npm start
+### 4.setelah itu akan tampil seperti berikut di browser
 ![Capture2](https://user-images.githubusercontent.com/64895482/184495809-ddc50f0a-02d1-4674-b506-a45b87684c04.PNG)
+========================================================================================
 5.lalu login dengan 
 username : admin
 password : admin
